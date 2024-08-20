@@ -1,10 +1,12 @@
 # John Gray
 ## Full Stack Software Developer
-
-- **Programming Languages** | Python 3, JavaScript/TypeScript, C#, SQL, HTML5, CSS  
-- **Frontend** | React, ViteJS, DOM manipulation, Websockets  
-- **Backend** | Django 4, FastAPI, PostgreSQL, MongoDB, CI/CD  
-- **System Design** | Microservices, Domain-driven design, Message passing, Pub/sub, Event-driven design  
+### Skills
+- **Programming Languages** | Python 3, JavaScript ES6+, TypeScript, C#, SQL, HTML5, CSS3
+- **System Design** | Monoliths, Microservices, Domain-driven design, REST, Pub/sub, Event-driven design
+- **Frontend** | React, Bootstrap, Chakra UI, DOM manipulation, Websockets, Highcharts 
+- **Backend** | FastAPI, Django 4, PostgreSQL, MongoDB, JSON, Node.js, Pandas, CRUD, Asynchronous APIs
+- **Devops** | CI/CD, Command-line tools, Git, Cypress, AWS
+- **Operations** | Business development, project management, sales, marketing, accounting, talent coaching, brand management
 
 I am a software engineer designing and creating full stack applications and games. On an individual level, I enjoy coding because it allows me to exercise creativity, problem solving and organization. In collaboration, I am excited by the teamwork opportunities software engineering affords. The soft skills required to be a successful software engineer are skills I’ve cultivated throughout my life and career.  
 
