@@ -7,10 +7,10 @@ In the course of running my business, I began programming automation tools to re
 Outside of work, I love writing, reading, cooking, creating games and the San Francisco Giants. Born and live in New York.
 
 # Tech I work with
-Languages: Python, JavaScript (ES6+), TypeScript, C#, SQL, HTML5, CSS3
-Frontend: React, Bootstrap, Chakra UI, DOM manipulation, WebSockets, Highcharts
-Backend: FastAPI, Django 4, Node.js, PostgreSQL, MongoDB, Pandas, CRUD, async APIs, JSON
-System design: Monoliths, microservices, DDD, REST, pub/sub, event-driven design
-DevOps/Tooling: CI/CD, Git, command-line tools, Cypress, AWS
+**Languages:** Python, JavaScript (ES6+), TypeScript, C#, SQL, HTML5, CSS3 <br/>
+**Frontend:** React, Bootstrap, Chakra UI, DOM manipulation, WebSockets, Highcharts <br/>
+**Backend:** FastAPI, Django 4, Node.js, PostgreSQL, MongoDB, Pandas, CRUD, async APIs, JSON <br/>
+**System design:** Monoliths, microservices, DDD, REST, pub/sub, event-driven design <br/>
+**DevOps/Tooling:** CI/CD, Git, command-line tools, Cypress, AWS <br/>
 
 
