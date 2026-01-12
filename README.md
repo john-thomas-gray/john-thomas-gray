@@ -1,15 +1,14 @@
-# John Gray
-## Full Stack Software Developer
-### Skills
-- **Programming Languages** | Python 3, JavaScript ES6+, TypeScript, C#, SQL, HTML5, CSS3
-- **System Design** | Monoliths, Microservices, Domain-driven design, REST, Pub/sub, Event-driven design
-- **Frontend** | React, Bootstrap, Chakra UI, DOM manipulation, Websockets, Highcharts 
-- **Backend** | FastAPI, Django 4, PostgreSQL, MongoDB, JSON, Node.js, Pandas, CRUD, Asynchronous APIs
-- **Devops** | CI/CD, Command-line tools, Git, Cypress, AWS
-- **Operations** | Business development, project management, sales, marketing, accounting, talent coaching, brand management
+Hello there. I’m John Gray, an entrepreneur and software engineer. The post production company I founded, Wadjet, creates boutique audio description so people with visual impairments can enjoy vivid film and television.
 
-I am a software engineer designing and creating full stack applications and games. On an individual level, I enjoy coding because it allows me to exercise creativity, problem solving and organization. In collaboration, I am excited by the teamwork opportunities software engineering affords. The soft skills required to be a successful software engineer are skills I’ve cultivated throughout my life and career.  
+In the course of running my business, I began programming automation tools to reduce days of menial office work to a single button press. To mitigate other forms of human suffering, I now create humanitarian software, including an app that enables low-vision users to access live film screenings. I also volunteer with Change Climate Project, building technical solutions that drive carbon reduction.
 
-Over the past 5+ years, I've worked as a localization professional with a specialization in accessibility for the visually impaired. I used my extensive knowledge of the field to start my localization company, Wadjet LLC, where I work as an operations manager facilitating creation of varied enhancement and post-production deliverables. As a talent I've scripted and narrated 750+ hours of audio description.  
+Outside of work, I love writing, reading, cooking, creating games and the San Francisco Giants. Born and live in New York.
+
+#Tech I work with
+Languages: Python, JavaScript (ES6+), TypeScript, C#, SQL, HTML5, CSS3
+Frontend: React, Bootstrap, Chakra UI, DOM manipulation, WebSockets, Highcharts
+Backend: FastAPI, Django 4, Node.js, PostgreSQL, MongoDB, Pandas, CRUD, async APIs, JSON
+System design: Monoliths, microservices, DDD, REST, pub/sub, event-driven design
+DevOps/Tooling: CI/CD, Git, command-line tools, Cypress, AWS
 
 
