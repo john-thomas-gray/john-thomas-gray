@@ -1,4 +1,6 @@
-Hello there. I’m John Gray, an entrepreneur and software engineer. The post production company I founded, Wadjet, creates boutique audio description so people with visual impairments can enjoy vivid film and television.
+#Hello there. 
+
+I’m John Gray, an entrepreneur and software engineer. The post production company I founded, Wadjet, creates boutique audio description so people with visual impairments can enjoy vivid film and television.
 
 In the course of running my business, I began programming automation tools to reduce days of menial office work to a single button press. To mitigate other forms of human suffering, I now create humanitarian software, including an app that enables low-vision users to access live film screenings. I also volunteer with Change Climate Project, building technical solutions that drive carbon reduction.
 
